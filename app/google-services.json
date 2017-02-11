@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "980643556779",
+    "firebase_url": "https://alzaid-2b407.firebaseio.com",
+    "project_id": "alzaid-2b407",
+    "storage_bucket": "alzaid-2b407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980643556779:android:db6446be5a13d683",
+        "android_client_info": {
+          "package_name": "com.decode.alzaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980643556779-b9012u3s4u8a4j5eor57ifnmher4nlja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decode.alzaid",
+            "certificate_hash": "ABE85AE81F903234595B1AFBCF8095C0BC000D80"
+          }
+        },
+        {
+          "client_id": "980643556779-0pbg5383gifjtg8fpvnpuootvui98afi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decode.alzaid",
+            "certificate_hash": "B3184A25DB76337CBF5B39302A8F6FC4709D342A"
+          }
+        },
+        {
+          "client_id": "980643556779-1601j826al5ep7j0pkfqk2er3emqsjsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decode.alzaid",
+            "certificate_hash": "22BF3936C11C3A6E75598290F51A9AA2EB8109D0"
+          }
+        },
+        {
+          "client_id": "980643556779-fk0fnr327ameto3q22odo7dd97hljk1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decode.alzaid",
+            "certificate_hash": "6BEB43AE4F3064B1871AD044D886EC173EFAD123"
+          }
+        },
+        {
+          "client_id": "980643556779-msjn8tj98pl08v6qop09hhr6mj6o9e4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeO_bSUCuGLxxtNCF9iqhfG_CPeTAiKQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980643556779-msjn8tj98pl08v6qop09hhr6mj6o9e4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980643556779:android:63aead7891c73091",
+        "android_client_info": {
+          "package_name": "com.decode.alzaidcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980643556779-gd3qj3pp6ob441qmh4pd3lrq5mchstd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.decode.alzaidcompanion",
+            "certificate_hash": "6BEB43AE4F3064B1871AD044D886EC173EFAD123"
+          }
+        },
+        {
+          "client_id": "980643556779-msjn8tj98pl08v6qop09hhr6mj6o9e4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeO_bSUCuGLxxtNCF9iqhfG_CPeTAiKQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980643556779-msjn8tj98pl08v6qop09hhr6mj6o9e4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
